@@ -8,7 +8,7 @@ How to fix to FHD
 
 3. Copy/Paste into your Return To Castle Wolfenstein Steam or GoG directory
 
-4. Set the resolutio to 1920x1080 in game settings 
+4. Set the resolution to 1920x1080 in game settings 
 
 5. Enjoy!
 
