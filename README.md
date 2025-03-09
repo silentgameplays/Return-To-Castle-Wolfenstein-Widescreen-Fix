@@ -26,6 +26,7 @@ How to fix to FHD
 * seta r_mode "-1"
 
 4. Enjoy!
+# Works by copy/pasting with GOG and Steam versions on Linux as well
 
 Thanks
-#silentgamepls
+#silentgameplays
