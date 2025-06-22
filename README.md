@@ -25,7 +25,17 @@ How to fix to FHD
 * seta r_customwidth "1920"  (where 1920 or anything else is your desired horizontal resolution)
 * seta r_mode "-1"
 
-4. Enjoy!
+4. # Fix Low Brightness Issue for recordings:
+* Crank Brightness to the desired levels in Settings
+* Go into C:\Program Files (x86)\Steam\steamapps\common\Return to Castle Wolfenstein\Main
+* Open wolfconfig.cfg
+
+# change
+* seta r_ignorehwgamma "0"
+# to 
+* seta r_ignorehwgamma "1" 
+
+5. Enjoy!
 # Works by copy/pasting with GOG and Steam versions on Linux as well
 
 Thanks
